@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Virsual Studio Code Git Kullanımı</h1>
+<p>Bugün sizlere virsual studio code ile GitHub nasıl kullanılır onu öğreteceğiz. Öncelikli olarak GitHub içeriklerinden biraz bahsedelim.</p>
+<h3> REPOSİTORY: </h3>
+<p> Proje için klasör gibidir. Projenin deposunun , tüm dosyalarını içerir ve her dosyanın revizyon geçmişini depolar.
+<h3> BRANCH : </h3>
+<p>Projeye yeni bir özellik eklenmek istendiğinde yeni bir branch açılır ve bütün değişiklikler bu branch üzerinde yapıldıktan sonra master branch ile birleştirilir.</p>
+<h3> FORK (ÇATAL,ÇATALLANMAK) : </h3>
+<p> Başka birine ait bir repository üzerinde çalışmak isterseniz onu "fork" edebilirsiniz.</p>
+<h3> CLONE (KOPYALAMAK) : </h3>
+<p>Bir projeyi bilgisayara indirmek için "CLONE" kullanılır.</p>
+<br>
+<br>
+<p> git config --global user.email "e-mail adresiniz"<br>
+bu komut ile yerelde yaptığınız değişiklikler hangi GitHub hesabı ile ilişkilendirileceğini ayarlayabilirsiniz </p>
+
+</body>
+</html>
